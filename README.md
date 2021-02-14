@@ -7,4 +7,4 @@
 3. Type **/sit**!
 
 ### Thonks
-- I have no idea why I should continue this, so i won't! Have a good day everybody.
+- I have no idea why I should continue this, so I won't! Have a good day everybody.
