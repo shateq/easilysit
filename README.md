@@ -1,6 +1,7 @@
-# You can Easily Sit everywhere with this lightweight plugin!
+# 🪑 You can Easily Sit everywhere with this lightweight plugin!
+💺 🪑 💺 🪑 💺 🪑 💺 🪑
 
-## Installation
+## ⚙ Installation
 1. Download and drag .jar file to your plugins directory.
 2. Restart/reload the server.
 3. Type **/sit**!
