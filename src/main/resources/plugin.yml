@@ -1,0 +1,10 @@
+name: EasilySit
+version: @version@
+main: shateq.easilysit.Easilysit
+api-version: 1.16
+authors: [ Shateq ]
+description: /sit to sit down
+commands:
+  sit:
+    description: Sit down
+    usage: /<command>
