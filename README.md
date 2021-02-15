@@ -1,4 +1,5 @@
 # 🪑 You can Easily Sit everywhere with this lightweight plugin!
+# OFFICIAL SPIGOT LINK: https://www.spigotmc.org/resources/easily-sit.89042/
 
 > Requirements: (Spigot 1.13+ server/Paper spigot 1.13+) *Tested on 1.16.4*
 
