@@ -3,7 +3,7 @@ import org.apache.tools.ant.filters.ReplaceTokens
 apply plugin: 'java'
 
 group = 'shateq.easilysit'
-version = '1.33.7'
+version = '13.37'
 
 sourceCompatibility = '1.8'
 targetCompatibility = '1.8'
